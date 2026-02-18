@@ -1,6 +1,6 @@
-# Hi, I'm Matt
+# Hi, I'm Matt 🏜️
 
-Phoenix, AZ
+Based in Phoenix, AZ for now
 
 ## Projects
 
