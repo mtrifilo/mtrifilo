@@ -1,4 +1,4 @@
-# Hey
+# Hi
 
 Based in Phoenix, AZ for now
 
